@@ -32,6 +32,9 @@ int main()
         if (YN == "Y" ) {
             std::cout << "Seems you like coffee";
         }
+        if (YN == "y") {
+            std::cout << "Seems you like coffee";
+        }
         else  {
             std::cout << "Oh you don`t like coffee";
         }
